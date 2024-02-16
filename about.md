@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TopModel
-subtitle: multiscale AI for single-cell based precision medicine
+subtitle: Multi-parameter Topology for Machine Learning Models
 permalink: /
 redirect_from:
   - /about/
@@ -10,15 +10,11 @@ redirect_from:
 
 # General Presentation
 
-AI4scMed is a consortium (2023-2027) from the [PEPR Santé Numérique](https://www.inria.fr/fr/pepr-sante-numerique-projets) headed by INRIA-INSERM. It gathers researchers from different institutions on AI developments for single-cell biology applied to precision medicine. 
+TopModel is an ANR JCJC grant of four years (2023-2027) that aims at studying the incorporation of multi-parameter topology to machine learning models for both single-cell and cosmological data. 
 
 # Abstract 
 
-Cell-based precision medicine holds revolutionary potential for healthcare, but realizing its full potential demands a deep understanding of disease variability and multiscale aspects. Single-cell (sc) multi-omics offers a unique way to obtain molecular profiles of individual cells and predict disease trajectories. To harness this complexity, new AI breakthroughs are needed. Our consortium will tackle methodological challenges to bridge the gap between sc data and personalized treatments, resolving cell type differences and integrating sc-multi-omics with imaging for spatial insights.
-
-Addressing the complexity of the human body and combining genomics with other assays, we will develop AI-based methods to handle, integrate, analyze, and visualize multiscale complexity in diseases. Our developments will leverage cutting-edge AI for sc-genomic data analysis. To infer causal mechanisms at different levels, we'll use causal/logical/stochastic modeling to integrate heterogeneous data and account for temporal scales and biophysical priors.
-
-We'll create network inference methods to understand molecular mechanisms in clinical samples, identifying key genes and predicting therapeutic impacts. Precision medicine must also integrate variability across different cell decision levels. We aim to build predictive models, digital twins, to enable data-driven personalized treatments by connecting intracellular dynamics, biochemical processes, cell populations, and tissue-level organization.
+The central tenet of this project is the use of multiparameter topological data analysis for machine learning models, for both regularizing and monitoring these models, and for the automatic generation of new features and descriptors to feed these models with. On the theoretical front, a lot of efforts will be devoted to the development, implementation and generalization of standard topological data analysis techniques, who (for the most part) can only study the topological variations of at most one parameter (such as the data scale), so as to make them suitable for the study of the topological variations of several parameters jointly (such as density and scale, marker genes). Then, the focus will be on specific applications, for which topological data analysis is known to be relevant and efficient, of these new multiparameter topological data analysis methods for machine learning models. More precisely, we will emphasize the usefulness of our new tools on data sets from cosmology (large scale structures of the Universe) and biology (single-cell sequencing, mass cytometry).
 
 {% for post in site.wps %}
     {% include wps.html %}
