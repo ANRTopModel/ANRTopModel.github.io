@@ -1,0 +1,16 @@
+
+<div class="people-index">
+    <div class="people-picture">
+    {% if post.image %}
+
+	<img src="assets/img/people/{{ post.image }}"/>
+    {% else %}
+	<img src="assets/img/people/unknown_person.jpg"/>
+    {% endif %}
+
+    {% if post.affiliation %}
+    <p>{{ post.affiliation }}</p>
+    {% endif %}
+    </div>
+
+</div>
