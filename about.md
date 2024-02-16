@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ai4scmed
+title: TopModel
 subtitle: multiscale AI for single-cell based precision medicine
 permalink: /
 redirect_from:
