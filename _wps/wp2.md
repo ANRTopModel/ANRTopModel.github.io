@@ -1,6 +1,6 @@
 ---
 wpnum: 2
-title: "WP2: Investigating cellular ecosystems by multimodal data integration"
+title: "WP2: Multi-Parameter Mapper Complexes"
 collection: wps
 permalink: /wps/wp2
 image: slide_wp2.png

@@ -1,9 +1,9 @@
 ---
-title: "Identification of protein secretion systems in bacterial genomes using MacSyFinder version 2"
+title: "Stable Vectorization of Multiparameter Persistent Homology using Signed Barcodes as Measures"
 collection: publications
-permalink: /publication/202301-abby_denise_rocha
-venue: ''
-citation: 'S. S. Abby, R. Denise, E. P. Rocha. <b>Identification of protein secretion systems in bacterial genomes using MacSyFinder version 2</b>, <i></i> January 2023'
+permalink: /publication/2023-loiseaux-scoccola-carriere-botnan-oudot
+venue: 'Advances in Neural Information Processing Systems 36 (NeurIPS 2023)'
+citation: 'D. Loiseaux, L. Scoccola, M. Carrière, M. Botnan, S. Oudot. <b>Stable Vectorization of Multiparameter Persistent Homology using Signed Barcodes as Measures</b>, <i></i> 2023'
 year: '2023'
-paperurl: 'http://biorxiv.org/lookup/doi/10.1101/2023.01.06.522999'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/d75c474bc01735929a1fab5d0de3b189-Abstract-Conference.html'
 ---

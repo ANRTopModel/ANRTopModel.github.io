@@ -1,9 +1,9 @@
 ---
-title: "Unveiling the Links Between Peptide Identification and Differential Analysis FDR Controls by Means of a Practical Introduction to Knockoff Filters"
+title: "A Framework for Fast and Stable Representations of Multiparameter Persistent Homology Decompositions"
 collection: publications
-permalink: /publication/202300-etourneau_varoquaux_burger
-venue: ''
-citation: 'L. Etourneau, N. Varoquaux, T. Burger. <b>Unveiling the Links Between Peptide Identification and Differential Analysis FDR Controls by Means of a Practical Introduction to Knockoff Filters</b>, <i></i> 2023'
+permalink: /publication/2023-loiseaux-carriere-blumberg
+venue: 'Advances in Neural Information Processing Systems 36 (NeurIPS 2023)'
+citation: 'D. Loiseaux, M. Carrière, A. Blumberg.. <b>A Framework for Fast and Stable Representations of Multiparameter Persistent Homology Decompositions</b>, <i></i> 2023'
 year: '2023'
-paperurl: 'https://link.springer.com/10.1007/978-1-0716-1967-4_1'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/702b67152ec4435795f681865b67999c-Abstract-Conference.html'
 ---

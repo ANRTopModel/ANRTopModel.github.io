@@ -1,9 +1,9 @@
 ---
-title: "Unveiling the Links Between Peptide Identification and Differential Analysis FDR Controls by Means of a Practical Introduction to Knockoff Filters"
+title: "Differentiability and Convergence of Filtration Learning with Multiparameter Persistence"
 collection: publications
-permalink: /publication/202300-etourneau_varoquaux_burger
-venue: ''
-citation: 'L. Etourneau, N. Varoquaux, T. Burger. <b>Unveiling the Links Between Peptide Identification and Differential Analysis FDR Controls by Means of a Practical Introduction to Knockoff Filters</b>, <i></i> 2023'
-year: '2023'
-paperurl: 'https://link.springer.com/10.1007/978-1-0716-1967-4_1'
+permalink: /publication/2024-setlur-scoccola-loiseaux-carriere-oudot
+venue: 'Preprint'
+citation: 'S. Setlur, L. Scoccola, D. Loiseaux, M. Carrière, S. Oudot. <b>Differentiability and Convergence of Filtration Learning with Multiparameter Persistence</b>, <i>Preprint</i> 2024'
+year: '2024'
+paperurl: ''
 ---

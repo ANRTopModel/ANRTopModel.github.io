@@ -1,9 +1,9 @@
 ---
-title: "Inference of 3D genome architecture by modeling overdispersion of Hi-C data"
+title: "Differentiable Mapper for Topological Optimization of Data Representation"
 collection: publications
-permalink: /publication/202301-varoquaux_noble_vert
-venue: ''
-citation: 'N. Varoquaux, W. S. Noble, J.-P. Vert. <b>Inference of 3D genome architecture by modeling overdispersion of Hi-C data</b>, <i>Bioinformatics,</i> January 2023'
-year: '2023'
-paperurl: 'https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btac838/6967433'
+permalink: /publication/2024-oulhaj-carriere-michel
+venue: 'Preprint'
+citation: 'Z. Oulhaj, M. Carrière, B. Michel. <b>Differentiable Mapper for Topological Optimization of Data Representation</b>, <i>Preprint,</i> 2024'
+year: '2024'
+paperurl: ''
 ---

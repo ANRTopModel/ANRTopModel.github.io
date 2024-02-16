@@ -1,6 +1,6 @@
 ---
 wpnum: 4
-title: "WP4: Towards multiscale mechanistic models for innovative treatments"
+title: "WP4: Geometric Inference for Spatial Transcriptomics"
 collection: wps
 permalink: /wps/wp4
 image: slide_wp4.png
