@@ -6,11 +6,5 @@ permalink: /wps/wp2
 image: slide_wp2.png
 ---
 
-
-- Dynamics of immune repertoires to viral infection and cancer
-- Diversification of Tcells wrt viral infection
-- Tumor micro environment as an ecosystem
-- Cell population communications
-- Spatial machine learning & Topological
-- Data Analysis
-
+- New Stratification of Mapper Complexes
+- Application to Statistical Inference and Optimization

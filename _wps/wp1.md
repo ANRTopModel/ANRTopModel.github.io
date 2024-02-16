@@ -6,12 +6,6 @@ permalink: /wps/wp1
 image: slide_wp1.png
 ---
 
-- High Dimensional sparse data, stratified
-- Joint multiple analysis
-- Integrate heterogeneous data for gene
-- expression regulation
-- Inference of Gene regulatory networks
-- Differential analysis on complex
-- gene-expression distributions
-
+- New Invariants for Multi-parameter Persistence Modules
+- Integration in Data Science and Machine Learning Pipelines
 
