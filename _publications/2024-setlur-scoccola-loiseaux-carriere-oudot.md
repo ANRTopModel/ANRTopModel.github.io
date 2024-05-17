@@ -1,5 +1,5 @@
 ---
-title: "Differentiability and Convergence of Filtration Learning with Multiparameter Persistence"
+title: "Differentiability and Optimization of Multiparameter Persistence"
 collection: publications
 permalink: /publication/2024-setlur-scoccola-loiseaux-carriere-oudot
 venue: 'International Conference on Machine Learning (ICML) 2024'
