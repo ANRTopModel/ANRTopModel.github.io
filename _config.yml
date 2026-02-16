@@ -15,7 +15,7 @@ author: Mathieu Carrière
 
 navbar-links:
     Members: "people"
-    Publications: "publications"
+    Publications: https://hal.science/search/index/?q=TopModel+ANR-23-CE23-0014&rows=30&sort=publicationDate_tdate+desc
     Software: "softwares"
     Events: "events"
 
